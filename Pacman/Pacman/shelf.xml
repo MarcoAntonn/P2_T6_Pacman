@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<frames>
+    <foreach type="int" type-java="int" var="x=58" collection="b" collection-java="b" enable="true"/>
+</frames>
